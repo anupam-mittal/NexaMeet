@@ -1,4 +1,4 @@
-# Baat-Cheet
+# NexaMeet
 
 It is a peer to peer conference call implementation using WebRTC, Socket.io and Node.js.
 
